@@ -1,7 +1,7 @@
 acor_nn-NO
 ==========
 
-Draft Norwegian Nynorsk autocorrection package for OpenOffice, LibreOffice, etc. Based on acor_en-US.dat in LibreOffice 3.6.2.2.
+Draft Norwegian Nynorsk autocorrection package for OpenOffice, LibreOffice, etc. Based on ````acor_en-US.dat```` in LibreOffice 3.6.2.2.
 
 To do
 ------
