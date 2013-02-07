@@ -118,6 +118,7 @@
 <block-list:block block-list:abbreviated-name="matr.nr."/>
 <block-list:block block-list:abbreviated-name="med.kand."/>
 <block-list:block block-list:abbreviated-name="mu.h."/>
+<block-list:block block-list:abbreviated-name="m.v"/>
 <block-list:block block-list:abbreviated-name="n.å."/>
 <block-list:block block-list:abbreviated-name="n.br."/>
 <block-list:block block-list:abbreviated-name="n.ed."/>
@@ -134,6 +135,8 @@
 <block-list:block block-list:abbreviated-name="o.m."/>
 <block-list:block block-list:abbreviated-name="o.m.a."/>
 <block-list:block block-list:abbreviated-name="op.cit."/>
+<block-list:block block-list:abbreviated-name="osb."/>
+<block-list:block block-list:abbreviated-name="osv."/>
 <block-list:block block-list:abbreviated-name="ot.prp."/>
 <block-list:block block-list:abbreviated-name="p.a."/>
 <block-list:block block-list:abbreviated-name="p.å."/>
