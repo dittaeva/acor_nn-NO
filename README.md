@@ -10,3 +10,7 @@ Installation
     cd acor_nn-NO
     zip -r acor_nn-NO.dat *
     mv acor_nn-NO.dat ~/.config/libreoffice/3/user/autocorr/ # or wherever else you have your Libre/OpenOffice settings.
+
+Submit to
+=========
+http://cgit.freedesktop.org/libreoffice/core/tree/extras/source/autotext/lang
